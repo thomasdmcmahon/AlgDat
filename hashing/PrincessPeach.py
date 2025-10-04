@@ -1,3 +1,4 @@
+"""Solution to Kattis problem 'Saving Princess Peach'"""
 import sys
 
 data = sys.stdin.read().strip().split()
